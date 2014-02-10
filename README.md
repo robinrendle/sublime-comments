@@ -19,8 +19,6 @@ There are several shortcuts for the different comment blocks.
 
 	/* This is a basic comment */
 
-#### Basic Comment Usage
-
 Enter the shortcut `com-basic` followed by the `tab` key
 
 ### Section Comment
