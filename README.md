@@ -1,4 +1,4 @@
-EDX Sass Comments Sublime Text package
+Idiomatic SCSS comments package
 ===============================================
 
 Sass style comments for Sublime Text. This repo was forked from [Idiomatic CSS Style Comments](https://github.com/erskinedesign/Idiomatic-CSS-Comments-Snippets) with adjustments made by the Erskine team so that comments can be stripped from generated CSS without the use of another workflow.
