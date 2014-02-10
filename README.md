@@ -1,11 +1,15 @@
-Idiomatic CSS Style Comments for Sublime Text
-=============================================
+EDX Sass Comments Sublime Text package
+===============================================
 
-Idiomatic CSS style comments for Sublime Text.  Comment format based on Idiomatic CSS by Nicolas Gallagher (https://github.com/necolas/idiomatic-css)
+Sass style comments for Sublime Text. This repo was forked from [Idiomatic CSS Style Comments](https://github.com/erskinedesign/Idiomatic-CSS-Comments-Snippets) with adjustments made by the Erskine team so that comments can be stripped from markup without the use of another workflow.
+
+Comment format based on Idiomatic CSS by Nicolas Gallagher (https://github.com/necolas/idiomatic-css)
+
+
 
 ## Install
 
-You can install via the Sublime Text Package Control (http://wbond.net/sublime_packages/package_control) and search for Idiomatic CSS Comments.
+You can install via the Sublime Text Package Control (http://wbond.net/sublime_packages/package_control) and search for EDX Sass Comments.
 
 ## Usage
 
@@ -21,9 +25,9 @@ Enter the shortcut `com-basic` followed by the `tab` key
 
 ### Section Comment
 
-	/* ==========================================================================
-   	   This is a Section Comment
-       ========================================================================== */
+	// ==========================================================================
+   	// This is a Section Comment
+    // ========================================================================== 
 
 #### Section Comment Usage
 
@@ -31,9 +35,8 @@ Enter the shortcut `com-section` followed by the `tab` key
 
 ### Sub-Section Comment
 
-	/* ==========================================================================
-   	   This is a Sub-Section Comment
-       ========================================================================== */
+   	// This is a Sub-Section Comment
+    // ========================================================================== 
 
 #### Sub Section Comment Usage
 
