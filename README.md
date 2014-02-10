@@ -29,16 +29,12 @@ Enter the shortcut `com-basic` followed by the `tab` key
    	// This is a Section Comment
     // ========================================================================== 
 
-#### Section Comment Usage
-
 Enter the shortcut `com-h1` followed by the `tab` key
 
 ### Sub-Section Comment
 
    	// This is a Sub-Section Comment
     // ========================================================================== 
-
-#### Sub Section Comment Usage
 
 Enter the shortcut `com-h2` followed by the `tab` key
 
@@ -61,7 +57,6 @@ Enter the shortcut `com-h2` followed by the `tab` key
 	 *   indented by 2 spaces.
 	 */
 
-#### Long Comment Usage
 
 Enter the shortcut `com-long` followed by the `tab` key
 
