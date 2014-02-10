@@ -1,15 +1,15 @@
 EDX Sass Comments Sublime Text package
 ===============================================
 
-Sass style comments for Sublime Text. This repo was forked from [Idiomatic CSS Style Comments](https://github.com/erskinedesign/Idiomatic-CSS-Comments-Snippets) with adjustments made by the Erskine team so that comments can be stripped from markup without the use of another workflow.
+Sass style comments for Sublime Text. This repo was forked from [Idiomatic CSS Style Comments](https://github.com/erskinedesign/Idiomatic-CSS-Comments-Snippets) with adjustments made by the Erskine team so that comments can be stripped from generated CSS without the use of another workflow.
 
-Comment format based on Idiomatic CSS by Nicolas Gallagher (https://github.com/necolas/idiomatic-css)
+This comment format based on Idiomatic CSS by Nicolas Gallagher (https://github.com/necolas/idiomatic-css)
 
 
 
 ## Install
 
-You can install via the Sublime Text Package Control (http://wbond.net/sublime_packages/package_control) and search for EDX Sass Comments.
+First use Package Control to add this repo as a package (remember to remove .git from the end of the repo’s URL) and then install package. 
 
 ## Usage
 
@@ -31,7 +31,7 @@ Enter the shortcut `com-basic` followed by the `tab` key
 
 #### Section Comment Usage
 
-Enter the shortcut `com-section` followed by the `tab` key
+Enter the shortcut `com-h1` followed by the `tab` key
 
 ### Sub-Section Comment
 
@@ -40,7 +40,7 @@ Enter the shortcut `com-section` followed by the `tab` key
 
 #### Sub Section Comment Usage
 
-Enter the shortcut `com-sub` followed by the `tab` key
+Enter the shortcut `com-h2` followed by the `tab` key
 
 ### Long Comment
 
