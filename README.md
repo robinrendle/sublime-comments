@@ -19,7 +19,7 @@ There are several shortcuts for the different comment blocks.
 
 	/* This is a basic comment */
 
-Enter the shortcut `com-basic` followed by the `tab` key
+Enter the shortcut `c` followed by the `tab` key
 
 ### Section Comment
 
@@ -27,14 +27,15 @@ Enter the shortcut `com-basic` followed by the `tab` key
    	// This is a Section Comment
     // ========================================================================== 
 
-Enter the shortcut `c-h1` followed by the `tab` key
+Enter the shortcut `c1` followed by the `tab` key
 
 ### Sub-Section Comment
 
-   	// This is a Sub-Section Comment
-    // ========================================================================== 
+    // This is a Sub-Section Comment
+    // ----------------------------------------------------------------------
 
-Enter the shortcut `com-h2` followed by the `tab` key
+
+Enter the shortcut `c2` followed by the `tab` key
 
 ### Long Comment
 
@@ -56,7 +57,7 @@ Enter the shortcut `com-h2` followed by the `tab` key
 	 */
 
 
-Enter the shortcut `com-long` followed by the `tab` key
+Enter the shortcut `cl` followed by the `tab` key
 
 ### Todo List Comment
 
@@ -70,4 +71,4 @@ Enter the shortcut `com-long` followed by the `tab` key
 
 #### Todo List Comment Usage
 
-Enter the shortcut `com-todo` followed by the `tab` key
+Enter the shortcut `ct` followed by the `tab` key
