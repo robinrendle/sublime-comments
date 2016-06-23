@@ -8,7 +8,7 @@ Easy comments for Sublime Text 3, based on [Idiomatic CSS](https://github.com/ne
 
 First use Package Control to add this repo as a package (remember to remove .git from the end of the repo’s URL) and then install package. 
 
-1. cmd + shift + p -> Add as Repo
+1. cmd + shift + p -> Add as Repo + paste this repo’s HTTPS link
 2. cmd + shift + p -> Install package 
 3. sublime-comments
 
