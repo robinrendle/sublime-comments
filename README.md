@@ -1,15 +1,19 @@
 Sublime Comments
 ===============================================
 
-Sass style comments for Sublime Text. This repo was forked from [Idiomatic CSS Style Comments](https://github.com/erskinedesign/Idiomatic-CSS-Comments-Snippets) with adjustments made by the Erskine team so that comments can be stripped from generated CSS without the use of another workflow.
-
-This comment format based on Idiomatic CSS by Nicolas Gallagher (https://github.com/necolas/idiomatic-css)
-
+Easy comments for Sublime Text 3, based on [Idiomatic CSS](https://github.com/necolas/idiomatic-css).
 
 
 ## Install
 
 First use Package Control to add this repo as a package (remember to remove .git from the end of the repo’s URL) and then install package. 
+
+1. cmd + shift + p -> Add as Repo
+2. cmd + shift + p -> Install package 
+3. sublime-comments
+
+And you’re done!
+
 
 ## Usage
 
@@ -19,7 +23,7 @@ There are several shortcuts for the different comment blocks.
 
 	/* This is a basic comment */
 
-Enter the shortcut `c` followed by the `tab` key
+Enter the shortcut `c` followed by the `tab` key.
 
 ### Section Comment
 
@@ -27,7 +31,7 @@ Enter the shortcut `c` followed by the `tab` key
    	// This is a Section Comment
     // ========================================================================== 
 
-Enter the shortcut `c1` followed by the `tab` key
+Enter the shortcut `c1` followed by the `tab` key.
 
 ### Sub-Section Comment
 
@@ -35,7 +39,7 @@ Enter the shortcut `c1` followed by the `tab` key
     // ----------------------------------------------------------------------
 
 
-Enter the shortcut `c2` followed by the `tab` key
+Enter the shortcut `c2` followed by the `tab` key.
 
 ### Long Comment
 
