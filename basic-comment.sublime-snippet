@@ -3,6 +3,6 @@
 /* ${1} */
 
 ]]></content>
-	<tabTrigger>com-basic</tabTrigger>
+	<tabTrigger>c-b</tabTrigger>
 	<description>SCSS Idiomatic Comments - Basic Comment</description>
 </snippet>

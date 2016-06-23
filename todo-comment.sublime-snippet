@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
 /**
- * TODO 
+ * TODO
  */
 
 ]]></content>
-	<tabTrigger>com-todo</tabTrigger>
+	<tabTrigger>c-t</tabTrigger>
 	<description>SCSS Idiomatic Comments - Todo Comment</description>
 </snippet>

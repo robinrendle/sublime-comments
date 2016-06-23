@@ -1,4 +1,4 @@
-Idiomatic SCSS comments package
+Sublime Comments
 ===============================================
 
 Sass style comments for Sublime Text. This repo was forked from [Idiomatic CSS Style Comments](https://github.com/erskinedesign/Idiomatic-CSS-Comments-Snippets) with adjustments made by the Erskine team so that comments can be stripped from generated CSS without the use of another workflow.
@@ -27,7 +27,7 @@ Enter the shortcut `com-basic` followed by the `tab` key
    	// This is a Section Comment
     // ========================================================================== 
 
-Enter the shortcut `com-h1` followed by the `tab` key
+Enter the shortcut `c-h1` followed by the `tab` key
 
 ### Sub-Section Comment
 

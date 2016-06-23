@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
 // ${1}
-// ==========================================================================
-
+//
+--------------------------------------------------------------------------
 ${2}
 
 ]]></content>
-	<tabTrigger>com-h2</tabTrigger>
+	<tabTrigger>c-2</tabTrigger>
 	<description>SCSS Idiomatic Comments - Sub-Section Comment Block</description>
 </snippet>

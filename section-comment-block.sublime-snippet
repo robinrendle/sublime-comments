@@ -2,11 +2,11 @@
 	<content><![CDATA[
 // ==========================================================================
 // ${1}
-// ========================================================================== 
+// ==========================================================================
 
 ${2}
 
 ]]></content>
-	<tabTrigger>com-h1</tabTrigger>
+	<tabTrigger>c-1</tabTrigger>
 	<description>SCSS Idiomatic Comments - Section Comment Block</description>
 </snippet>
